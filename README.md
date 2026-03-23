@@ -1,6 +1,6 @@
 # Robert Haldeman Jr.
 
-Economics B.A. candidate at Rowan University, graduating May 2026. My academic work sits at the intersection of quantitative methods and financial analysis — I build econometric models, design relational databases, and apply statistical frameworks to real financial and policy questions.
+Economics B.A. candidate at Rowan University, graduating May 2026. My academic work sits at the intersection of quantitative methods and financial analysis. I build econometric models, design relational databases, and apply statistical frameworks to real financial and policy questions.
 
 I have hands-on experience in financial analysis through an internship at Exelon | Pepco Holdings, where I worked on asset retirement obligations, month-end close procedures, and Annual Blanket Reviews across three utility subsidiaries. Outside of coursework, I pursue independent research projects that let me apply these methods to topics I find genuinely interesting.
 
